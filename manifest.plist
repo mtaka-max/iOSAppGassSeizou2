@@ -12,13 +12,13 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- ★ここにGitHub Releasesなどにアップロードした.ipaの直接リンクを入れます -->
-					<string>https://github.com/mtaka-max/iOSAppGassSeizou/releases/download/v1.0.0/KyoukyuNyu.ipa</string>
+					<string>https://github.com/mtaka-max/iOSAppGassSeizou2/releases/download/v1.0.0/Tenken.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>jp.atoms.KyoukyuNyu</string>
+				<string>jp.atoms.Tenken</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
